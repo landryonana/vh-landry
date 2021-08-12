@@ -110,7 +110,7 @@ WSGI_APPLICATION = 'vhproject2021.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backend.postgresql_psycopg2',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'd41vuilp6shr4s',
         'USER': 'ieiosgipeemlvw',
         'PASSWORD': '95ccf50b9f8d35194f8b67d979aa16b3cbd95f017d0806c2296cca4c3449256a',
